@@ -1,1 +1,1 @@
-module github.com/wahyudibo/testmod
+module github.com/wahyudibo/testmod/v2
